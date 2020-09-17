@@ -26,14 +26,19 @@ The project was to build a mobile responsive portfolio template that renders wel
 The web application consists of three pages which can be toggled between using the buttons in the navbar.
 
 About Me:
+
 ![Image of About Me -400px](/assets/snapshots/400-Index.PNG)
 ![Image of About Me -768px](/assets/snapshots/768-Index.PNG)
 ![Image of About Me -992px](/assets/snapshots/992-Index.PNG)
+
 Contact:
+
 ![Image of Contact -400px](/assets/snapshots/400-Contact.PNG)
 ![Image of Contact -768px](/assets/snapshots/768-Contact.PNG)
 ![Image of Contact -992px](/assets/snapshots/992-Contact.PNG)
+
 Portfolio:
+
 ![Image of Portfolio -400px](/assets/snapshots/400-Portfolio.PNG)
 ![Image of Portfolio -768px](/assets/snapshots/768-Portfolio.PNG)
 ![Image of Portfolio -992px](/assets/snapshots/992-Portfolio.PNG)
