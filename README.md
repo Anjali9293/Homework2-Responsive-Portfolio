@@ -21,7 +21,7 @@ The project was to build a mobile responsive portfolio template that renders wel
 
 - Website consists of intuitive design, easy navigation and relevant content.
 
--Webiste uses custom CSS to style the footer.
+- Webiste uses custom CSS to style the footer.
 
 ## Usage
 
